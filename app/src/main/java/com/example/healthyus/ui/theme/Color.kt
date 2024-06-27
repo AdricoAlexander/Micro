@@ -1,0 +1,25 @@
+package com.example.healthyus.ui.theme
+import androidx.compose.ui.graphics.Color
+
+val Purple80 = Color(0xFFD0BCFF)
+val PurpleGrey80 = Color(0xFFCCC2DC)
+val Pink80 = Color(0xFFEFB8C8)
+
+val Purple40 = Color(0xFF6650a4)
+val PurpleGrey40 = Color(0xFF625b71)
+val Pink40 = Color(0xFF7D5260)
+val Green40 = Color(0xFF007186)
+val Green50 = Color(0xFF005B6B)
+val Green60 = Color(0xFF007186)
+val Green70 = Color(0xFF0097B2)
+val Green80 = Color(0xFFE6F5F7)
+val Green90 = Color(0xFF296FA0)
+val Green100 = Color(0xFF1F5378)
+val White40 = Color(0xFFF8F8F8)
+val Gray50 = Color(0xFFEFEFEF)
+val White30 = Color(0xFFF8F8F8)
+val White90 = Color(0xFFEDE7E4)
+val Blue40 = Color(0xFFE6F5F7)
+val Blue50 = Color(0xFFEAF1F6)
+val Gray40 = Color(0xFFC5C5C5)
+val Gray60 = Color(0xFF666666)
